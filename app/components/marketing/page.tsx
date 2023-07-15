@@ -9,6 +9,9 @@ const page = () => {
         <Link href="/components/marketing/simple-centered">
           <button>simple centered</button>
         </Link>
+        <Link href="/components/marketing/three-column">
+          <button>three column</button>
+        </Link>
       </div>
     </div>
   );
