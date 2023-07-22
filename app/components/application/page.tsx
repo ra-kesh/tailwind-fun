@@ -4,12 +4,12 @@ import MenuTemplate, { componentDataType } from "../utility/MenuTemplate";
 const applicationComponents: componentDataType = [
   {
     groupId: "1",
-    groupName: "hero",
+    groupName: "tables",
     groupContents: [
       {
         id: 1,
-        name: "simple centered",
-        path: "/components/marketing/simple-centered",
+        name: "Multiline table with avatars",
+        path: "/components/application/avatar-multiline",
       },
     ],
   },
