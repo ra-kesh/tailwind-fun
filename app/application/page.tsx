@@ -9,7 +9,7 @@ const applicationComponents: componentDataType = [
       {
         id: 1,
         name: "Multiline table with avatars",
-        path: "/components/application/avatar-multiline",
+        path: "application/avatar-multiline",
       },
     ],
   },

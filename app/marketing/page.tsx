@@ -1,4 +1,3 @@
-import Link from "next/link";
 import React from "react";
 import MenuTemplate, { componentDataType } from "../utility/MenuTemplate";
 
@@ -10,7 +9,7 @@ const marketingComponents: componentDataType = [
       {
         id: 1,
         name: "simple centered",
-        path: "/components/marketing/simple-centered",
+        path: "/marketing/simple-centered",
       },
     ],
   },
@@ -21,7 +20,7 @@ const marketingComponents: componentDataType = [
       {
         id: 1,
         name: "three column",
-        path: "/components/marketing/three-column",
+        path: "/marketing/three-column",
       },
     ],
   },

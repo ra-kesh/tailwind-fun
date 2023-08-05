@@ -6,13 +6,13 @@ export default function Home() {
       <div className="max-w-2xl">
         <h1 className="text-4xl font-bold ">Tailwind Components For Fun</h1>
         <div className="flex justify-evenly my-10">
-          <Link href="/components/marketing">
+          <Link href="/marketing">
             marketing <span>&rarr;</span>
           </Link>
-          <Link href="/components/application">
+          <Link href="/application">
             application <span>&rarr;</span>
           </Link>
-          <Link href="/components/ecommerce">
+          <Link href="/ecommerce">
             ecommerce <span>&rarr;</span>
           </Link>
         </div>
